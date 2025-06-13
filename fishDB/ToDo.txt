@@ -1,0 +1,5 @@
+1. Setup initial application code template.
+2. make a clean Dataset (either .db or .json)
+3. Find a way to add seperate images for each fish.
+4. build the application.
+5. Deploy
